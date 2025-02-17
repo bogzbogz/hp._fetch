@@ -10,3 +10,7 @@ async function fetchCharacters(){
     console.error('Hiba történt az adatok lekérésekor: ',error)
  }   
 }
+
+function displayCharacters(characters){
+   
+}
